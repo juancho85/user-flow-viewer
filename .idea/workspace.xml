@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="930f5e29-f771-4cc6-9433-596d31e4d327" name="Default" comment="" />
+    <ignored path="user-flow-viewer.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/" />
+    <file path="/Dummy.txt" changelist="930f5e29-f771-4cc6-9433-596d31e4d327" time="1417561877908" ignored="false" />
+    <file path="/controllers.js" changelist="930f5e29-f771-4cc6-9433-596d31e4d327" time="1417559725904" ignored="false" />
+    <file path="/index.html" changelist="930f5e29-f771-4cc6-9433-596d31e4d327" time="1417561512539" ignored="false" />
+    <file path="/userpreferences.html" changelist="930f5e29-f771-4cc6-9433-596d31e4d327" time="1417304615375" ignored="false" />
+    <file path="/directives.js" changelist="930f5e29-f771-4cc6-9433-596d31e4d327" time="1417560178575" ignored="false" />
+    <file path="/styles.css" changelist="930f5e29-f771-4cc6-9433-596d31e4d327" time="1417366715628" ignored="false" />
+    <file path="/dropZone.html" changelist="930f5e29-f771-4cc6-9433-596d31e4d327" time="1417560189681" ignored="false" />
+    <file path="/services.js" changelist="930f5e29-f771-4cc6-9433-596d31e4d327" time="1417557798323" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="user-flow-viewer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/partials/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="58" column="17" selection-start="2388" selection-end="2388" vertical-scroll-proportion="-3.1538463">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="21" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="17" selection-start="726" selection-end="726" vertical-scroll-proportion="0.48184818">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="67" column="44" selection-start="1930" selection-end="1930" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="directives.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/directives.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="43" selection-start="2035" selection-end="2035" vertical-scroll-proportion="-8.84">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="input.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/fields/input.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="35" selection-start="67" selection-end="67" vertical-scroll-proportion="-1.9615384">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/services.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="sticky-header-plugin" />
+      </map>
+    </option>
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/partials/userpreferences.html" />
+        <option value="$PROJECT_DIR$/app/css/styles.css" />
+        <option value="$PROJECT_DIR$/app/partials/collapsibleTable.html" />
+        <option value="$PROJECT_DIR$/app/js/services.js" />
+        <option value="$PROJECT_DIR$/app/partials/dropZone.html" />
+        <option value="$PROJECT_DIR$/app/partials/index.html" />
+        <option value="$PROJECT_DIR$/app/js/controllers.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/js/directives.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-flow-viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-flow-viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-flow-viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-flow-viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-flow-viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="234" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="239" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="239" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="241" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="915" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="913" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="239" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="238" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FullScreen" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="options.lastSelected" value="IntelliLang.Configuration" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\user-flow-viewer\app\partials" />
+      <recent name="D:\Userfiles\SYSTEM\Documents\git\user-flow-viewer\app\lib\mkoryak-floatThead" />
+      <recent name="D:\Userfiles\SYSTEM\Documents\git\user-flow-viewer\app\img" />
+      <recent name="D:\Userfiles\SYSTEM\Documents\git\user-flow-viewer\app\lib" />
+      <recent name="D:\Userfiles\SYSTEM\Documents\git\user-flow-viewer\app\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Userfiles\SYSTEM\Documents\git\user-flow-viewer\app\lib\bootstrap\dist\css" />
+      <recent name="D:\Userfiles\SYSTEM\Documents\git\user-flow-viewer\app\lib\bootstrap\dist\js" />
+      <recent name="D:\Userfiles\SYSTEM\Documents\git\user-flow-viewer\app\lib\jquery" />
+      <recent name="D:\Userfiles\SYSTEM\Documents\git\user-flow-viewer\app\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/user-flow-viewer/app/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="filters.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="filters.js" working-dir="$PROJECT_DIR$/app/js">
+      <RunnerSettings RunnerId="debuggableProgram" />
+      <ConfigurationWrapper RunnerId="debuggableProgram" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.filters.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.filters.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="930f5e29-f771-4cc6-9433-596d31e4d327" name="Default" comment="" />
+      <created>1416685362193</created>
+      <updated>1416685362193</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Changed bootstrap version">
+      <created>1416737485064</created>
+      <updated>1416737485064</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding spinner while loading">
+      <created>1416737570401</created>
+      <updated>1416737570401</updated>
+    </task>
+    <task id="LOCAL-00003" summary="remove unused comments">
+      <created>1416737722503</created>
+      <updated>1416737722503</updated>
+    </task>
+    <task id="LOCAL-00004" summary="UI revamp">
+      <created>1416775906993</created>
+      <updated>1416775906993</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changed highlighting check on dates to highlight equal dates">
+      <created>1416776658578</created>
+      <updated>1416776658578</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Minor display changes">
+      <created>1416778439198</created>
+      <updated>1416778439198</updated>
+    </task>
+    <task id="LOCAL-00007" summary="overflow auto for sidebar">
+      <created>1416863126371</created>
+      <updated>1416863126371</updated>
+    </task>
+    <task id="LOCAL-00008" summary="overflow auto for tables">
+      <created>1416905009178</created>
+      <updated>1416905009178</updated>
+    </task>
+    <task id="LOCAL-00009" summary="batch files for creation of local web-server to launch on any browser">
+      <created>1416995055491</created>
+      <updated>1416995055491</updated>
+    </task>
+    <task id="LOCAL-00010" summary="batch files for creation of local web-server to launch on any browser">
+      <created>1416995321810</created>
+      <updated>1416995321810</updated>
+    </task>
+    <task id="LOCAL-00011" summary="batch files for creation of local web-server to launch on any browser">
+      <created>1416995546849</created>
+      <updated>1416995546849</updated>
+    </task>
+    <task id="LOCAL-00012" summary="batch files for creation of local web-server to launch on any browser">
+      <created>1416995630381</created>
+      <updated>1416995630381</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Change page title">
+      <created>1417012380324</created>
+      <updated>1417012380324</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Sticky headers in tables. The work is incomplete because scrolling horizontally has no effect on the headers">
+      <created>1417012971916</created>
+      <updated>1417012971916</updated>
+    </task>
+    <task id="LOCAL-00015" summary="favicon added">
+      <created>1417013940107</created>
+      <updated>1417013940107</updated>
+    </task>
+    <task id="LOCAL-00016" summary="filter for urls: each parameter is displayed in a different line">
+      <created>1417018744242</created>
+      <updated>1417018744242</updated>
+    </task>
+    <task id="LOCAL-00017" summary="filter for urls: each parameter is displayed in a different line">
+      <created>1417019153033</created>
+      <updated>1417019153033</updated>
+    </task>
+    <task id="LOCAL-00018" summary="readme: indicate browsers supported">
+      <created>1417019254064</created>
+      <updated>1417019254064</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add favicon&#10;">
+      <created>1417020956998</created>
+      <updated>1417020956998</updated>
+    </task>
+    <task id="LOCAL-00020" summary="start work on sticky headers for tables: Problem to solve: scrolling&#10;">
+      <created>1417027263892</created>
+      <updated>1417027263892</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Removed useless loop for filters&#10;">
+      <created>1417285939431</created>
+      <updated>1417285939431</updated>
+    </task>
+    <task id="LOCAL-00022" summary="handle glyphicone changes in the filters menu&#10;">
+      <created>1417289709946</created>
+      <updated>1417289709947</updated>
+    </task>
+    <task id="LOCAL-00023" summary="moving reset display to the controller">
+      <created>1417303566342</created>
+      <updated>1417303566342</updated>
+    </task>
+    <task id="LOCAL-00024" summary="moving reset display to the controller">
+      <created>1417303583936</created>
+      <updated>1417303583936</updated>
+    </task>
+    <task id="LOCAL-00025" summary="moving change display to the controller">
+      <created>1417303907810</created>
+      <updated>1417303907810</updated>
+    </task>
+    <task id="LOCAL-00026" summary="moving user preference directives logic to the controller">
+      <created>1417305007642</created>
+      <updated>1417305007642</updated>
+    </task>
+    <task id="LOCAL-00027" summary="moving highlight directives logic to the controller">
+      <created>1417341506834</created>
+      <updated>1417341506834</updated>
+    </task>
+    <task id="LOCAL-00028" summary="refactor on file dropable directive. Extract non-generic logic lo controller">
+      <created>1417358308813</created>
+      <updated>1417358308813</updated>
+    </task>
+    <task id="LOCAL-00029" summary="refactor on file dropable directive. Extract non-generic logic lo controller">
+      <created>1417358331501</created>
+      <updated>1417358331502</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Create directive for collapsible tables">
+      <created>1417366975940</created>
+      <updated>1417366975940</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add template HTML for collapsible tables directive">
+      <created>1417369566496</created>
+      <updated>1417369566496</updated>
+    </task>
+    <task id="LOCAL-00032" summary="finished moving dropable logic out of the directive. Fixed spinner problem while loading">
+      <created>1417560860738</created>
+      <updated>1417560860738</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fixed display issue with the drop zone">
+      <created>1417561153835</created>
+      <updated>1417561153835</updated>
+    </task>
+    <task id="LOCAL-00034" summary="put the template inside a ng-template to have it loaded faster">
+      <created>1417561888151</created>
+      <updated>1417561888151</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37308347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29784065" sideWeight="0.6269165" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="put the template inside a ng-template to have it loaded faster" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="UI revamp" />
+    <MESSAGE value="changed highlighting check on dates to highlight equal dates" />
+    <MESSAGE value="Minor display changes" />
+    <MESSAGE value="overflow auto for sidebar" />
+    <MESSAGE value="overflow auto for tables" />
+    <MESSAGE value="batch files for creation of local web-server to launch on any browser" />
+    <MESSAGE value="Change page title" />
+    <MESSAGE value="Sticky headers in tables. The work is incomplete because scrolling horizontally has no effect on the headers" />
+    <MESSAGE value="favicon added" />
+    <MESSAGE value="filter for urls: each parameter is displayed in a different line" />
+    <MESSAGE value="readme: indicate browsers supported" />
+    <MESSAGE value="add favicon&#10;" />
+    <MESSAGE value="start work on sticky headers for tables: Problem to solve: scrolling&#10;" />
+    <MESSAGE value="Removed useless loop for filters&#10;" />
+    <MESSAGE value="handle glyphicone changes in the filters menu&#10;" />
+    <MESSAGE value="moving reset display to the controller" />
+    <MESSAGE value="moving change display to the controller" />
+    <MESSAGE value="moving user preference directives logic to the controller" />
+    <MESSAGE value="moving highlight directives logic to the controller" />
+    <MESSAGE value="refactor on file dropable directive. Extract non-generic logic lo controller" />
+    <MESSAGE value="Create directive for collapsible tables" />
+    <MESSAGE value="add template HTML for collapsible tables directive" />
+    <MESSAGE value="finished moving dropable logic out of the directive. Fixed spinner problem while loading" />
+    <MESSAGE value="fixed display issue with the drop zone" />
+    <MESSAGE value="put the template inside a ng-template to have it loaded faster" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/lib/bootstrap/dist/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lib/bootstrap/dist/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lib/float-thead/jquery.floatThead.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/filters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/userpreferences.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="53" selection-start="415" selection-end="430" vertical-scroll-proportion="-6.5384617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/fields/input.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="35" selection-start="67" selection-end="67" vertical-scroll-proportion="-1.9615384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="20" selection-start="1028" selection-end="1028" vertical-scroll-proportion="0.44074073">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="21" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="44" selection-start="1930" selection-end="1930" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="17" selection-start="2388" selection-end="2388" vertical-scroll-proportion="-3.1538463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="43" selection-start="2035" selection-end="2035" vertical-scroll-proportion="-8.84">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="17" selection-start="726" selection-end="726" vertical-scroll-proportion="0.48184818">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

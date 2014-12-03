@@ -1,0 +1,96 @@
+<div id="sidebar-wrapper">
+    <!--Tables layout-->
+    <div class="row col-lg-offset-1">
+        <div class="dropdown">
+            <button class="btn btn-default dropdown-toggle" type="button" id="tablesLayoutMenu" data-toggle="dropdown" aria-expanded="true">
+                Tables layout
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" role="menu" aria-labelledby="tablesLayoutMenu">
+                <li role="presentation" ng-click="changeDisplay('horizontal')"><a role="menuitem" href="" tabindex="-1">Horizontal Display</a></li>
+                <li role="presentation" ng-click="changeDisplay('vertical')"><a role="menuitem"  href="" tabindex="-1">Vertical Display</a></li>
+            </ul>
+        </div>
+    </div>
+    <br/>
+
+    <!--Reset display-->
+    <div class="row col-lg-offset-1">
+        <button class="btn" ng-click="resetDisplay()">Reset tables</button>
+    </div>
+    <br/>
+
+    <!--User preferences-->
+    <div class="row col-lg-offset-1">
+        <a href="#/userpreferences"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Filter preferences</a>
+    </div>
+    <br/>
+
+    <!--Column filters-->
+    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+        <!--Input-->
+        <div class="row col-lg-offset-1">
+            <collapsible-table id="inputFilter" title="Filter Input">
+                <input ng-model="queryInput" placeholder="Search column">
+                <span ng-repeat="tit in titles.input | filter:queryInput">
+                    </br>
+                    <input type="checkbox" ng-model="tit.checked" ng-true-value="checked" ng-false-value="">{{tit.title}}
+                </span>
+            </collapsible-table>
+        </div>
+        <br/>
+
+        <!--Statistic-->
+        <div class="row col-lg-offset-1">
+            <collapsible-table id="statisticFilter" title="Filter Statistic">
+                <input ng-model="queryStatistic" placeholder="Search column">
+                <span ng-repeat="tit in titles.statistic | filter:queryStatistic">
+                    </br>
+                    <input type="checkbox" ng-model="tit.checked" ng-true-value="checked" ng-false-value="">{{tit.title}}
+                </span>
+            </collapsible-table>
+        </div>
+        <br/>
+    </div>
+
+</div>
+
+<div id="page-content-wrapper">
+
+    <dropable callback="formatLine(cont)" ng-hide="contents.show || loading">
+        <h1 class="text-center">Drop user flow here</h1>
+    </dropable>
+
+    <div class="row col-md-offset-4" ng-show='loading'>
+        <img id="spinner" ng-src="img/spinner.gif" >
+    </div>
+    <div id="tables" ng-show='contents.show'>
+        <div class="table-{{display}}-{{nTables}}">
+            <h2>Input</h2>
+            <table id="input" cellspacing="0" cellpadding="0">
+                <tr>
+                    <th ng-repeat="title in titles.input | filter:{checked:'checked'}">{{title.title}}</th>
+                </tr>
+                <tr ng-repeat="content in contents.input" ng-click="highlightInput($event,$index)">
+                    <td ng-repeat="prop in inputFields" ng-show="titles.input[$index].checked">{{content[prop] |
+                        dateFilter | urlFilter}}
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="table-{{display}}-{{nTables}}">
+            <h2>Statistic</h2>
+            <table id="statistic" cellspacing="0" cellpadding="0">
+                <tr>
+                    <th ng-repeat="title in titles.statistic | filter:{checked:'checked'}">{{title.title}}</th>
+                </tr>
+                <tr ng-repeat="content in contents.statistic" ng-click="highlightStatistic($event,$index)">
+                    <td ng-repeat="prop in statisticFields" ng-show="titles.statistic[$index].checked">{{content[prop]|
+                        dateFilter}}
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+

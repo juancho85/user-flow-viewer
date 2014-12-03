@@ -1,0 +1,198 @@
+[
+    {
+        "name": "timestamp",
+        "title": "Timestamp",
+        "checked": "checked"
+    },
+    {
+        "name": "timeSpent",
+        "title": "Processing Time (s)",
+        "checked": "checked"
+    },
+    {
+        "name": "actionName",
+        "title": "Action name/servlet",
+        "checked": "checked"
+    },
+    {
+        "name": "siteCode",
+        "title": "SiteCode",
+        "checked": "checked"
+    },
+    {
+        "name": "language",
+        "title": "Language",
+        "checked": "checked"
+    },
+    {
+        "name": "officeId1",
+        "title": "OfficeId",
+        "checked": "checked"
+    },
+	{
+        "name": "sessionId",
+        "title": "session Id",
+        "checked": "checked"
+    },
+    {
+        "name": "newComerFlag",
+        "title": "Newcomer flag",
+        "checked": "checked"
+    },
+    {
+        "name": "travelerId",
+        "title": "TravelerId",
+        "checked": "checked"
+    },
+    {
+        "name": "fatalErrorCode",
+        "title": "Fatal error code",
+        "checked": "checked"
+    },
+
+    {
+        "name": "actionProcessingTime",
+        "title": "Action processing time",
+        "checked": "checked"
+    },
+    {
+        "name": "sessionSize",
+        "title": "Session size (KB)",
+        "checked": "checked"
+    },
+    {
+        "name": "jspProcessingTime",
+        "title": "JSP processing time",
+        "checked": "checked"
+    },
+    {
+        "name": "templateName",
+        "title": "Template",
+        "checked": "checked"
+    },
+    {
+        "name": "threadId",
+        "title": "ThreadId",
+        "checked": "checked"
+    },
+    {
+        "name": "requestType",
+        "title": "Request type",
+        "checked": "checked"
+    },
+    {
+        "name": "httpSessionId",
+        "title": "HTTP Session ID",
+        "checked": "checked"
+    },
+    {
+        "name": "jspName",
+        "title": "JSP name",
+        "checked": "checked"
+    },
+    {
+        "name": "errorCode1",
+        "title": "errorCode1",
+        "checked": "checked"
+    },
+    {
+        "name": "errorCode2",
+        "title": "errorCode2",
+        "checked": "checked"
+    },
+    {
+        "name": "errorCode3",
+        "title": "errorCode3",
+        "checked": "checked"
+    },
+    {
+        "name": "errorCode4",
+        "title": "errorCode4",
+        "checked": "checked"
+    },
+    {
+        "name": "errorCode5",
+        "title": "errorCode5",
+        "checked": "checked"
+    },
+    {
+        "name": "errorCode6",
+        "title": "errorCode6",
+        "checked": "checked"
+    },
+    {
+        "name": "errorCode7",
+        "title": "errorCode7",
+        "checked": "checked"
+    },
+    {
+        "name": "errorCode8",
+        "title": "errorCode8",
+        "checked": "checked"
+    },
+    {
+        "name": "errorCode9",
+        "title": "errorCode9",
+        "checked": "checked"
+    },
+    {
+        "name": "errorCode10",
+        "title": "errorCode10",
+        "checked": "checked"
+    },
+	{
+        "name": "chainedAction",
+        "title": "Chained action",
+        "checked": "checked"
+    },
+    {
+        "name": "parentActionName",
+        "title": "Parent action name",
+        "checked": "checked"
+    },
+    {
+        "name": "clientIp",
+        "title": "clientIp",
+        "checked": "checked"
+    },
+    {
+        "name": "clientReferrer",
+        "title": "Client Referrer",
+        "checked": "checked"
+    },
+    {
+        "name": "TransactionId",
+        "title": "TransactionId",
+        "checked": "checked"
+    },
+    {
+        "name": "schemaVersion",
+        "title": "Schema Version",
+        "checked": "checked"
+    },
+    {
+        "name": "userId",
+        "title": "UserId",
+        "checked": "checked"
+    },
+    {
+        "name": "organisationId",
+        "title": "organisationId",
+        "checked": "checked"
+    },
+    {
+        "name": "isSSLRequest",
+        "title": "isSSLRequest",
+        "checked": "checked"
+    },
+    {
+        "name": "uk9",
+        "title": "?",
+        "checked": "checked"
+    },
+    {
+        "name": "uk10",
+        "title": "?",
+        "checked": "checked"
+    }
+]

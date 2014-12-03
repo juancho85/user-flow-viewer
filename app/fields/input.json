@@ -1,0 +1,27 @@
+[
+    {
+        "name": "timestamp",
+        "title": "Time stamp",
+        "checked": "checked"
+    },
+    {
+        "name": "thread",
+        "title": "thread",
+        "checked": "checked"
+    },
+    {
+        "name": "sessionId",
+        "title": "Session id",
+        "checked": "checked"
+    },
+    {
+        "name": "httpMethod",
+        "title": "HTTP method",
+        "checked": "checked"
+    },
+    {
+        "name": "query",
+        "title": "query",
+        "checked": "checked"
+    }
+]
